@@ -8,3 +8,8 @@ KeePassXC
 `brew install --cask keepassxc`  
 
 ---
+
+Brave Browser  
+`brew install --cask brave-browser`  
+
+---
