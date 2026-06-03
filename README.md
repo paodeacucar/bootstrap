@@ -20,11 +20,6 @@ Brave Browser
 #### Windows 11  
 
 
-Brave Browser  
-```
-winget install --id Brave.Brave -e   
-```
-
 Box Drive  
 ```
 winget install -e --id Box.Box   
