@@ -1,4 +1,4 @@
-MacOS | [Windows 11](./foo.txt)
+MacOS | [Windows 11](./README.md#windows-11)
 
 Grab brew
 
