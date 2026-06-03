@@ -19,13 +19,18 @@ Brave Browser
 
 #### Windows 11  
 
-1Password  
-```
-winget install --id AgileBits.1Password
-```
-
 
 Brave Browser  
 ```
 winget install --id Brave.Brave -e   
+```
+
+Box Drive  
+```
+winget install -e --id Box.Box   
+```
+
+KeePassXC  
+```
+winget install -e --id KeePassXCTeam.KeePassXC   
 ```
