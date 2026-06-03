@@ -1,4 +1,7 @@
-MacOS | [Windows 11](./README.md#windows-11)
+[MacOS](./README.md#MacOS) | [Windows 11](./README.md#windows-11)
+
+
+#### MacOS    
 
 Grab brew
 
@@ -24,6 +27,8 @@ Box Drive
 ```
 winget install -e --id Box.Box   
 ```
+
+---
 
 KeePassXC  
 ```
