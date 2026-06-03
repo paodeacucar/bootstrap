@@ -13,3 +13,10 @@ Brave Browser
 `brew install --cask brave-browser`  
 
 ---
+
+
+#### Windows 11  
+Brave Browser  
+```
+winget install --id Brave.Brave -e   
+```
